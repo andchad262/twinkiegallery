@@ -1,4 +1,4 @@
-# twinkiegallery
+# Twinkie Gallery
 A gallery of my dog Twinkie
 
 Utilized Bootstrap to create a gallery of images of my dog Twinkie. In this application, I used the following components from Bootstrap:
@@ -8,4 +8,6 @@ Utilized Bootstrap to create a gallery of images of my dog Twinkie. In this appl
 4. Utilized the Grid System. To achieve a responsive application, within my column settings I use col-lg-4 for 3 images across large viewpoints, medium viewpoints will have 2 images across. To ensure responsive images, I use thumbail within the HTML
 
 
-Bootstrap codes can found within the Bootstrap site http://www.getbootstrap.com 
+Bootstrap codes can found within the Bootstrap site http://www.getbootstrap.com
+
+Live link can be found here https://codechad.github.io/twinkiegallery/
